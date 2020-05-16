@@ -1,17 +1,13 @@
-#**Odoo Client Library**
---
+# Odoo Client Library
 
 Very SIMPLE and STUPID Pythonic Odoo Client Library to make-use-of Odoo WebServices. It is designed to wrap all XML RPC Technicality into more object-orientated meaning of programming using class and dedicated Methods.
 
-##__Features:__
+## __Features:__
 - Basic-Generic **ORM API** (create, read, write, unlink ...) CRUD.
 - Generic **ORM Research API** (search, search_read, search_count, name_search ...).
 - Generic superset **Method** to avoid implmentation (symmetric code but need to be attentive).
 - Dedicated **WORKFLOW Methods** to drive business process smoothly.
 - Easy **SaaS/HTTPS or Local Instance/Database** Connection styles.
-
-
---
 
 
 ##Usage:
